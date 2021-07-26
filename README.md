@@ -12,4 +12,5 @@
 
 ## 使用技術
 * Django Rest Framework（バックエンドに使用）
-* Vue（フロントエンドに使用）
+* Vue.js（フロントエンドに使用）
+* heroku(デプロイに使用)
